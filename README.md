@@ -1,6 +1,7 @@
 el<header>
 # tipo 1
 ## tipo H2
+###### título tipo 6
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
